@@ -14,7 +14,7 @@
     node ./bin/www
 浏览localhst:3000，显示首页。 Hello World成功！
 
-### lesson1 express基本功能和结构
+### 第1课 express基本功能和结构
 
 端口监听：bin/www
 
@@ -63,6 +63,9 @@ express使用中间件static来处理静态文件：
 
     app.use(express.static(__dirname + '/public'));
 
+TRY:尝试访问http://localhost:3000/users和http://localhost:3000/，找到相关的页面
+
+###第2课 动手实现一个模块
 
 
 
