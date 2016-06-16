@@ -1,7 +1,7 @@
 #nodejs express学习
 
 ### 0 环境设置
-(本框架是使用webstorm自带模板新建node express工程，选择handlebars模板，sass
+(本框架是使用webstorm自带的node express 4.x工程模板，带了handlebars和sass
 )
 
 >本地安装node模块
